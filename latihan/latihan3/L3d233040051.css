@@ -1,0 +1,32 @@
+body{
+    background-image: url(img/background.png);
+    background-repeat: repeat-x;
+}
+h1{
+    color: darkblue;
+    font-size: 60px;
+    text-align: center;
+    font-family: comic sans ms;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-style: italic;
+}
+.a2{
+text-decoration: none;
+color: blue;
+}
+.a1{
+    color: red;
+}
+.paragraf1{
+    color: coral;
+    text-align: center;
+}
+.paragraf2{
+    text-align: center;
+    line-height: 2;
+}

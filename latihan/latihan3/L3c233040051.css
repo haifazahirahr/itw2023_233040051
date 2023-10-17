@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: darkblue;
+    font-size: 60px;
+    text-align: center;
+    font-family: comic sans ms;
+}
+h4{
+    text-align: right;
+    font-style: italic;
+}
+.a2{
+text-decoration: none;
+color: blue;
+}
+.a2:hover{
+    background-color: blue;
+    color: aliceblue;
+}
+.a1:{
+    color: antiquewhite;
+}
+.a1:hover{
+    color: red;
+}
+.paragraf1{
+    color: coral;
+    text-align: center;
+}
+.paragraf2{
+    text-align: center;
+    line-height: 2;
+}
